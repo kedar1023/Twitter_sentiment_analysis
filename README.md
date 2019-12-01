@@ -1,0 +1,2 @@
+# Twitter_sentiment_analysis
+Twitter sentiment analysis means do analysis on the tweets of the user by fetching the yser tweets with the twitter API.The tweets are classified by the paysify API.The API classify the tweets based on the sentiment as positive/negative/neutral.Also the user is able to tweet from the site and get the realtime updates.Whenever the user clicks on the login with twitter option the callback url is generated and it gives back the login page of twitter.
